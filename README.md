@@ -1,5 +1,5 @@
 # Java Inventory Management Program
-#Analysis
+# Analysis
 ### Program Functionality:
 
 The program allows users to perform the following actions:
